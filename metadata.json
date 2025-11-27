@@ -1,0 +1,5 @@
+{
+  "name": "StreamGauge",
+  "description": "StreamGauge: Jitter & Latency Analyzer for Cloud Gaming Platforms. A high-fidelity, aesthetic network analyzer visualizing real-time ping variations, speed stability, and recommended bitrates.",
+  "requestFramePermissions": []
+}
